@@ -1,0 +1,18 @@
+.container-pesan {
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.pesan {
+    border: 2px solid blue;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px 0;
+}
+
+.pesan-r {
+    border: 2px solid red;
+    text-align: right;
+}
